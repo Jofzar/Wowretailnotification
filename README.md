@@ -17,7 +17,7 @@ Just set up at least one notification app and you are good to go!
 2. Powershell 3.0+ (Comes with WIN10)
 3. .Net Framework 3.5+ (Usually already on Windows 10+ as well)
 4. The World of Warcraft game (installed on your Windows 10+ computer)
-5. This Weakaura: https://wago.io/Wk9Jik5R4 (You might need to make it biggger and the middle of your screen, the script is looking for "Avg").
+5. This Weakaura: https://wago.io/Wk9Jik5R4 (You might need to make it biggger and the middle of your screen, the script is looking for "Avg"). example https://i.imgur.com/ftcv1Q4.jpeg
 6. One notification app: Discord, Telegram, Pushover, Cell Phone, or Alexa Device.
 
 ## How it works
