@@ -25,7 +25,7 @@ It takes a screenshot of the wow game window. (NEW: It does not have to be in th
 It then uses Windows 10 Built-in OCR (Optical Character Recognition) to read the text in that screenshot. It will decide which routine is active and inform you about different states of the login queue.
 
 ## How to use
-
+0. Queue for Arena/Soloshuffle
 1. Click 'Start' to begin scanning your queue status and notifying you.
 2. Click 'Stop' to halt scanning and notifications.
 3. ???
